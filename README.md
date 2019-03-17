@@ -78,6 +78,8 @@
 
 ### 📌 Face Detection
 
+#### 1. Cascade CNN series
+
 - **Cascade**   [**[code]**](https://github.com/anson0910/CNN_face_detection)
 
   [A Convolutional Neural Network Cascade for Face Detection](https://ieeexplore.ieee.org/document/7299170/)[Haoxiang Li al., 2015]
@@ -86,13 +88,39 @@
 
    [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](https://kpzhang93.github.io/MTCNN_face_detection_alignment/)[K. Zhang al., 2016]
 
+- ICC - CNN
+
+#### 2. R-CNN or R-FCN Series
+
 - **Face R-CNN** 
 
-   [Face R-CNN](https://arxiv.org/pdf/1706.01061.pdf)[H. Wang, Z. Li, X. Ji, Y. Wang. et.al 2017]
+​      [Face R-CNN](https://arxiv.org/pdf/1706.01061.pdf)[H. Wang, Z. Li, X. Ji, Y. Wang. et.al 2017]
+
+- **CMS-RCNN**
+
+  [CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face Detection](https://arxiv.org/abs/1606.05413)[Chenchen Zhu et.al 2016]
+
+- **Deep-IR**
+
+  [Face Detection using Deep Learning: An Improved Faster RCNN Approach](https://arxiv.org/abs/1701.08289)[Xudong SUN et.al 2017]
+
+#### 3. SSD Series
 
 - **SSH**  [**[code]**](https://github.com/mahyarnajibi/SSH)
 
-   [SSH: Single Stage Headless Face Detector](https://arxiv.org/pdf/1708.03979.pdf)[M. Najibi, al., 2017 ]
+​      [SSH: Single Stage Headless Face Detector](https://arxiv.org/pdf/1708.03979.pdf)[M. Najibi, al., 2017 ]
+
+- **s3fd**
+
+​       [Single Shot Scale-invariant Face Detector](https://arxiv.org/abs/1708.05237)[Zhang, Shifeng al., 2017]
+
+- **FaceBoxes**  **[code](https://github.com/sfzhang15/FaceBoxes)**
+
+  [Faceboxes: A CPU Real-time Face Detector with High Accuracy](https://arxiv.org/pdf/1708.05234.pdf)[Zhang, Shifeng al., 2017]
+
+- **Scaleface**
+
+  [Face Detection through Scale-Friendly Deep Convolutional Networks](http://cn.arxiv.org/abs/1706.02863)[Shuo Yang al., 2017]
 
 - **HR**  [**[code]**](https://github.com/peiyunh/tiny)
 
@@ -105,10 +133,17 @@
 ### 📌 Face Alignment
 
 - [Look at Boundary: A Boundary-Aware Face Alignment Algorithm](https://arxiv.org/abs/1805.10483)[Wayne Wu al., 2018]
+- [PFLD: A Practical Facial Landmark Detector](https://arxiv.org/pdf/1902.10859.pdf)[Xiaojie Guo al., 2019]
 
 ### 📌Others
 
 - [Exploring Disentangled Feature Representation Beyond Face Identification](https://arxiv.org/abs/1804.03487v1)[Yu Liu al., 2018] 
+
+##  Open source lib
+
+#### 1. face.evoLVe.   [github](https://github.com/ZhaoJ9014/face.evoLVe.PyTorch)
+
+#### 2. libfaccedetection [github](https://github.com/ShiqiYu/libfacedetection)
 
 ## 📚 Datasets
 
